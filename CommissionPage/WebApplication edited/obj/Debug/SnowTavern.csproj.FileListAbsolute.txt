@@ -1,0 +1,365 @@
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\WebApplication1.dll.config
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\WebApplication1.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\WebApplication1.pdb
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\csc.exe
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\csc.exe.config
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\csc.rsp
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\csi.exe
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\csi.exe.config
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\csi.rsp
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.AppContext.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Console.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.Compression.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Net.Http.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Net.Sockets.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.ValueTuple.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XPath.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\vbc.exe
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\vbc.exe.config
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\vbc.rsp
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\VBCSCompiler.exe
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.Helpers.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.Mvc.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.Razor.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Deployment.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Razor.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.Helpers.xml
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.Mvc.xml
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.Razor.xml
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.xml
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Deployment.xml
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Razor.xml
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.Up2Date
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\obj\Debug\WebApplication1.dll
+C:\Users\charl\OneDrive\Documents\WebApplication edited\WebApplication edited\obj\Debug\WebApplication1.pdb
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\WebApplication1.dll.config
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\WebApplication1.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\WebApplication1.pdb
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csc.exe
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csc.exe.config
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csc.rsp
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csi.exe
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csi.exe.config
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csi.rsp
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.AppContext.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Console.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.Compression.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Net.Http.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Net.Sockets.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.ValueTuple.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XPath.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\vbc.exe
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\vbc.exe.config
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\vbc.rsp
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\VBCSCompiler.exe
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Helpers.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Mvc.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Razor.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Deployment.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Razor.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Helpers.xml
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Mvc.xml
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Razor.xml
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.xml
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Deployment.xml
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Razor.xml
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.AssemblyReference.cache
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.CoreCompileInputs.cache
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.Up2Date
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\WebApplication1.dll
+C:\Users\QCU\Documents\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\WebApplication1.pdb
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\WebApplication1.dll.config
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\WebApplication1.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\WebApplication1.pdb
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csc.exe
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csc.exe.config
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csc.rsp
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csi.exe
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csi.exe.config
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\csi.rsp
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.AppContext.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Console.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.Compression.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Net.Http.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Net.Sockets.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.ValueTuple.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XPath.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\vbc.exe
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\vbc.exe.config
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\vbc.rsp
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\VBCSCompiler.exe
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Helpers.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Mvc.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Razor.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Deployment.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Razor.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Helpers.xml
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Mvc.xml
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.Razor.xml
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.xml
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Deployment.xml
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\System.Web.WebPages.Razor.xml
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.AssemblyReference.cache
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.CoreCompileInputs.cache
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\SnowTavern.csproj.Up2Date
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\WebApplication1.dll
+C:\Users\charl\Downloads\WebApplication edited (1)\WebApplication edited\WebApplication edited\obj\Debug\WebApplication1.pdb
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\WebApplication1.dll.config
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\WebApplication1.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\WebApplication1.pdb
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\csc.exe
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\csc.exe.config
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\csc.rsp
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\csi.exe
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\csi.exe.config
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\csi.rsp
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.AppContext.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Console.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.IO.Compression.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Net.Http.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.ValueTuple.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\vbc.exe
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\vbc.exe.config
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\vbc.rsp
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\VBCSCompiler.exe
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.Helpers.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.Mvc.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.Razor.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.WebPages.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.WebPages.Razor.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.Helpers.xml
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.Mvc.xml
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.Razor.xml
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.WebPages.xml
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\System.Web.WebPages.Razor.xml
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\obj\Debug\SnowTavern.csproj.AssemblyReference.cache
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\obj\Debug\SnowTavern.csproj.CoreCompileInputs.cache
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\obj\Debug\SnowTavern.csproj.Up2Date
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\obj\Debug\WebApplication1.dll
+C:\Users\Varassi\Desktop\Studies\CommissionPage\WebApplication edited\obj\Debug\WebApplication1.pdb
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\WebApplication1.dll.config
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\WebApplication1.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\WebApplication1.pdb
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\csc.exe
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\csc.exe.config
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\csc.rsp
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\csi.exe
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\csi.exe.config
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\csi.rsp
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.AppContext.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Buffers.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Console.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.IO.Compression.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Memory.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Net.Http.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.ValueTuple.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\vbc.exe
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\vbc.exe.config
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\vbc.rsp
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\VBCSCompiler.exe
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.Helpers.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.Mvc.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.Razor.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.WebPages.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.WebPages.Razor.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.Helpers.xml
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.Mvc.xml
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.Razor.xml
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.WebPages.xml
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\System.Web.WebPages.Razor.xml
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\obj\Debug\SnowTavern.csproj.AssemblyReference.cache
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\obj\Debug\SnowTavern.csproj.CoreCompileInputs.cache
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\obj\Debug\SnowTavern.csproj.Up2Date
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\obj\Debug\WebApplication1.dll
+C:\Users\Varassi\Documents\Project\CommissionPage\WebApplication edited\obj\Debug\WebApplication1.pdb

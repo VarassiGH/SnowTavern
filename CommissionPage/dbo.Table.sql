@@ -1,0 +1,8 @@
+﻿CREATE TABLE Commissions (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    FullName NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL,
+    Explanation NVARCHAR(MAX),
+    Options NVARCHAR(500),
+    SubmissionDate DATETIME DEFAULT GETDATE()
+);
